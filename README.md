@@ -1,3 +1,4 @@
+
 # Olá, Pazer Me Chamo Elber 👨‍💻
 
 - 🔧 Desenvolvedor focado em **Java**, **Spring**, **Python**, **NodeJS**, **APIs REST**,**Hibernate**
@@ -51,7 +52,10 @@
   <a href="https://www.linkedin.com/in/elberjsn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=soft&text=Obrigado&height=100&fontSize=30&color=auto&section=footer)
+## Fim
+
+![header](https://capsule-render.vercel.app/api?type=soft&text=Obrigado&height=100&fontSize=30&section=footer&animation=blink&color=#384ca8)
+
 
 
 <!--
