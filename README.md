@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # Olá, Pazer Me Chamo Elber 👨‍💻
 
 - 🔧 Desenvolvedor focado em **Java**, **Spring**, **Python**, **NodeJS**, **APIs REST**,**Hibernate**
