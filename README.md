@@ -1,7 +1,7 @@
 
 # Olá, Pazer Me Chamo Elber 👨‍💻
 
-- 🔧 Desenvolvedor focado em **Java**, **Spring**, **Python**, **NodeJS**, **APIs REST**,**Hibernate**
+- 🔧 Desenvolvedor focado em **Java**, **Spring**, **Python**, **C#**, **.Net**, **APIs REST**,**Hibernate**
 
 - 🔨 Arquitetura Limpa, Micro-Services, Monolito, SaaS
 
