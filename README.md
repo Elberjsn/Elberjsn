@@ -1,23 +1,21 @@
 
 # Olá, Pazer Me Chamo Elber 👨‍💻
 
-- 🔧 Desenvolvedor focado em **Java**, **Spring**, **Python**, **C#**, **.Net**, **APIs REST**,**Hibernate**
+- 🔧 Desenvolvedor FullStack **Java**, **Spring**, **JavaScript**, **C#**, **.Net**, **Angular**, **React**
 
-- 🔨 Arquitetura Limpa, Micro-Services, Monolito, SaaS
-
-- 🛠️ Resolvo problemas com eficientes e organizadas, com foco em boas práticas e legibilidade
+- 🔨 Arquitetura Limpa, Micro-Services, Monolito
 
 ## Conhecimento no Back-End e Frameworks
 
-[![My Skills Back-End](https://skillicons.dev/icons?i=java,spring,hibernate,python,flask,django,js,nodejs,ts,php,laravel,c,cs,cpp,dotnet&perline=5)](https://skillicons.dev)
+[![My Skills Back-End](https://skillicons.dev/icons?i=java,spring,js,nodejs,ts,c,cs,dotnet&perline=5)](https://skillicons.dev)
 
 ## Conhecimento no Front-End e Frameworks
 
-[![My Skills Back-End](https://skillicons.dev/icons?i=js,html,css,angular,vue,tailwind&theme=light&perline=3)](https://skillicons.dev)
+[![My Skills Back-End](https://skillicons.dev/icons?i=js,html,css,angular,react,tailwind&theme=light&perline=3)](https://skillicons.dev)
 
 ## Conhecimento em Ferramentas
 
-[![My Skills Back-End](https://skillicons.dev/icons?i=git,gcp,docker,aws,linux,mongodb,notion,postgres,sass,mysql,sqlite,azure&perline=4)](https://skillicons.dev)
+[![My Skills Back-End](https://skillicons.dev/icons?i=git,gcp,docker,aws,linux,mongodb,notion,postgres,mysql,sqlite,azure&perline=4)](https://skillicons.dev)
 
 ---
 
@@ -27,19 +25,19 @@
 
 ## 📌 Projetos em Destaque
 
-🔹 [API de Clube de assinaturas com Java](https://github.com/Elberjsn/ClubeAssinaturaApi)  
+🔹 [API de Lista de Tarefas](https://github.com/Elberjsn/SimpleToDoListApi)
 
-    API RESTFull robusta com autenticação JWT, Spring ,Monolino com arquitetura Limpa.
+    API RESTFull Usando como arquitetura limpa e com JWT, Spring ,Monolino com arquitetura Limpa.
 
-🔹 [Encurtador de Link](https://github.com/Elberjsn/encurtador_link-Back)  
+🔹 [API Pet Shop](https://github.com/Elberjsn/ApiPetShopJava)
 
-    API REST simple com Spring
+    API RESTFull robusta com JWT, Spring ,Monolino com arquitetura Limpa.
 
 ## 🚀 Skills principais
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,hibernate,postgres,mysql,aws&theme=light&perline="/>
+    <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,cs,postgres,mysql,aws&theme=light&perline="/>
   </a>
 </p>
 
