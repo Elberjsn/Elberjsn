@@ -1,6 +1,5 @@
-<p align=center>
-  # Hello, I'm Elber José 👋
-  
+<h1 align=center>Hi, I'm Elber José 👋</h1>
+
 ```java
 import java.util.List;
 
@@ -14,9 +13,8 @@ public Developer personDeveloper(){
 }
 
 ```
+<p align=center>
 🚀 Backend Software Engineer focused on the entire Java ecosystem (Spring Boot, Quarkus) and REST APIs.
-
-💼 Java software engineer with experience also in C# and Python, with over 2 years of experience developing simple to complex applications with databases, messaging, unit and automated testing.
 </p>
 
 
